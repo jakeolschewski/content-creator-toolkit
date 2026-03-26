@@ -712,3 +712,15 @@ The premium products linked in this README (Hook Starter Kit, Carousel Templates
 ---
 
 **[Get started with the free hooks](https://wedgemethod.gumroad.com/l/free-hooks)** | **[Browse all products](https://wedge-sales.vercel.app)** | **Use code `LAUNCH50` for 50% off**
+
+---
+
+## About WEDGE Method
+
+This resource is part of the **[WEDGE Method](https://thewedgemethodai.com)** ecosystem — AI-powered tools and systems for content creators, consultants, and business owners.
+
+- **Website**: [thewedgemethodai.com](https://thewedgemethodai.com)
+- **Products**: [wedgemethod.gumroad.com](https://wedgemethod.gumroad.com)
+- **Articles**: [dev.to/wedgemethoddev](https://dev.to/wedgemethoddev)
+
+Built by [Jacob Olschewski](https://linkedin.com/in/jacobolschewski) | jacob@thewedgemethodai.com
